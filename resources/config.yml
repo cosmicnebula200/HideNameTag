@@ -1,0 +1,10 @@
+# Config for HideNameTag
+
+# messages
+# here you can customize the messages that the plugin sends when you use hide and unhide commands
+Hide-Message: "&aHide -> &dYour nametag is now hidden"
+Unhide-Message: "&aHide -> &dYour nametag is now visible"
+
+# these are the messages that will be sent when you hide/unhide someone elses nametag
+Hide-Message-Other: "&aHide -> &dYour nametag is hidden"
+Unhide-Message-Other: "&aHide -> &dYour nametag is now visible"

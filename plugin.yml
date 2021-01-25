@@ -1,0 +1,29 @@
+name: HideNameTag
+version: 1.0.0
+api: 3.0.0
+author: cosmicnebula200
+main: cosmicnebula200\HideNameTag\HideNameTag
+
+depend:
+  - "PureChat"
+  - "PurePerms"
+
+commands:
+  hide:
+    usage: /hide
+    description: hides your nametag
+    permission: hidenametag.hide
+
+  unhide:
+    usage: /unhide
+    description: shows your nametag back again
+    permission: hidenametag.unhide
+
+permissions:
+  hidenametag.hide:
+    default: op
+    description: this permission gives you access to the /hide command
+
+  hidenametag.unhide:
+    default: op
+    description: this permission gives you access to the /unhide command
