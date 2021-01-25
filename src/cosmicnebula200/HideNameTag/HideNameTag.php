@@ -14,8 +14,7 @@ class HideNameTag extends PluginBase {
 	public function onEnable()
 	{
 		$this->saveDefaultConfig();
-		$this->pureperms = $this->getServer()->getPluginManager()->getPlugin("PurePerms");
-		$this->purechat = $this->getServer()->getPluginManager()->getPlugin("PureChat");
+		
 	}
 
 
