@@ -8,9 +8,11 @@ A PocketMine-MP plugin to hide your/others nametag
 3. Restart your server.
 
 # Commands
+
 hide: 
  1. usage: /hide (player)
  2. permission: hidenametag.hide
+
 unhide: 
  1. usage: /unhide (player)
  2. permission: hidenametag.unhide
