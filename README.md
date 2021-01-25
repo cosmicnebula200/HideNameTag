@@ -25,4 +25,4 @@ hidenametag.unhide:
   2. description: this permission gives you access to the /unhide command
   
 # Support
-contact CosmicNebula#2508 on Discord if you want help or have any suggestions for new masks
+contact CosmicNebula#2508 on Discord if you want help or have any suggestions
