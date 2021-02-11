@@ -3,7 +3,7 @@ A PocketMine-MP plugin to hide your/others nametag
 
 # How to install
 
-1. Download the phar [here].
+1. Download the phar [here](https://poggit.pmmp.io/p/HideNameTag/1.0.0).
 2. Upload it to your server's plugin directory.
 3. Restart your server.
 
